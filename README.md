@@ -1,1 +1,1 @@
-# AI-Music-Generation
+# AI Music Generation
